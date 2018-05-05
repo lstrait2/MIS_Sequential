@@ -9,13 +9,6 @@ public class AdjacencyGraph {
         boolean inMIS = false;
         
         Node(int index) {
-            super();
-            {
-            }
-            {
-            }
-            {
-            }
             this.index = index;
         }
         
@@ -26,13 +19,6 @@ public class AdjacencyGraph {
     Node[] nodes;
     
     public AdjacencyGraph(int n) {
-        super();
-        {
-        }
-        {
-        }
-        {
-        }
         nodes = new Node[n];
     }
     
